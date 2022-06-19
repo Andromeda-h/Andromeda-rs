@@ -3297,15 +3297,16 @@ body {
 
 @media (min-width: 320px) {
   .rs-rs {
-    padding-top: 25vh;
-    width: 100vw;
-    height: 100vh;
+    padding-top: 200px;
+    width: 100%;
+    height: 100%;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
     align-items: center;
   }
   .rs-rs .h1-rs {
+    position: relative;
     text-align: center;
     color: white;
     font-size: 60px;
@@ -3314,7 +3315,7 @@ body {
   }
   .rs-rs .img-rs {
     position: absolute;
-    top: 205px;
+    top: 217px;
     width: 170px;
     opacity: 0.95;
   }
@@ -3353,9 +3354,9 @@ body {
 }
 @media (min-width: 700px) {
   .rs-rs {
-    padding-top: 25vh;
-    width: 100vw;
-    height: 100vh;
+    padding-top: 200px;
+    width: 100%;
+    height: 100%;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
