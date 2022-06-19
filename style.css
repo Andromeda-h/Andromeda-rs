@@ -3314,6 +3314,7 @@ body {
     text-transform: uppercase;
   }
   .rs-rs .img-rs {
+    display: inline;
     position: absolute;
     top: 217px;
     width: 170px;
@@ -3370,6 +3371,7 @@ body {
     text-transform: uppercase;
   }
   .rs-rs .img-rs {
+    display: inline;
     position: absolute;
     width: 200px;
     opacity: 0.955;
@@ -3421,6 +3423,9 @@ body {
     background-color: #000000;
     box-shadow: none;
     height: 100vh;
+  }
+  .img-rs {
+    display: none;
   }
 }
 

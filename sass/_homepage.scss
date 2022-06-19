@@ -67,6 +67,7 @@
         }
 
         .img-rs {
+            display: inline;
             position: absolute;
             top: 217px;
             width: 170px;
@@ -135,6 +136,7 @@
         }
 
         .img-rs {
+            display: inline;
             position: absolute;
             width: 200px;
             opacity: .955;
@@ -200,6 +202,10 @@
         background-color: #000000;
         box-shadow: none;
         height: 100vh;
+    }
+
+    .img-rs {
+        display: none;
     }
 }
 
