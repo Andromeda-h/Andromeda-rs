@@ -3415,6 +3415,7 @@ body {
     display: inline;
   }
   .body-rs {
+    background: none;
     background-color: #000000;
     box-shadow: none;
     height: 100vh;
