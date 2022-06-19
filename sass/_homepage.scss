@@ -61,7 +61,7 @@
             position: relative;
             text-align: center;
             color: white;
-            font-size: 60px;
+            font-size: 40px;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             text-transform: uppercase;
         }
@@ -70,8 +70,8 @@
             display: inline;
             position: absolute;
             top: 217px;
-            width: 170px;
-            opacity: .95;
+            width: 110px;
+            opacity: .9;
             
         }
 
@@ -103,9 +103,9 @@
 
     .body-rs {
         background: url(../images/moon.svg);
-        background-size: 500px;
+        background-size: 400px;
         background-repeat: no-repeat;
-        background-position: top;
+        background-position: top right;
         background-color: #6C53C8;
         box-shadow: inset 0px 0px 500px rgba(255, 255, 255, 0.548);
         height: 100vh;
